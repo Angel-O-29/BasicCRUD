@@ -1,0 +1,18 @@
+.fild {
+    text-align: center;
+    text-transform: capitalize;
+}
+.fild > a {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(45, 44, 44);
+    font-weight: 400;
+    transition: all .3s ease-in-out ;
+}
+.fild > a:hover {
+    color: black;
+    transform: scale(1.05);
+}
+.actions > a:last-of-type {
+    margin-left: 3rem;
+}

@@ -1,0 +1,20 @@
+.customerDataCont >p {
+    font-size: 2rem;
+    font-style: oblique;
+    text-transform: capitalize;
+}
+.customerDataCont >p > span {
+    font-style: normal;
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+.customerDataCont h2 {
+    font-size: 3rem;
+    margin-top: 0;
+}
+.customerDataCont {
+    border-radius: 5%;
+    padding: 2rem 3rem;
+    background-color: rgba(0, 0, 0, 0.172);
+}

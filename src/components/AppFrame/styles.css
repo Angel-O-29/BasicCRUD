@@ -1,0 +1,11 @@
+.appHeaderCont {
+    font-size: 1.6rem;
+}
+.appHeaderCont> p {
+    margin-bottom: 0;
+}
+.appHeaderCont > header > h1 {
+    font-size: 6rem;
+    margin-top: 0;
+    font-weight: 700;
+}

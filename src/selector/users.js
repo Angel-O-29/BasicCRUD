@@ -1,0 +1,1 @@
+export const getuserId = state => state.users && state.users.localId;

@@ -1,0 +1,15 @@
+.boton {
+    display: inline-block;
+    text-decoration: none;
+    background-color: gray;
+    padding: 1rem 2rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    color: rgb(45, 44, 44);
+    font-weight: 400;
+    transition: all .3s ease-in-out ;
+}
+.boton:hover {
+    color: black;
+    transform: scale(1.05);
+}

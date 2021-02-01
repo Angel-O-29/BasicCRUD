@@ -1,0 +1,20 @@
+.formulario   div> span {
+    color: rgb(148, 0, 0);
+}
+.block {
+    display: block
+}
+.formulario h2 {
+    font-size: 3rem;
+    margin-top: 0;
+}
+.formulario {
+
+    font-size: 2rem;
+    border-radius: 5%;
+    padding: 2rem 3rem;
+    background-color: rgba(0, 0, 0, 0.172);
+}
+.formulario input {
+    font-size: 2rem;
+}
